@@ -1,6 +1,8 @@
-<h3 align="center">Frontend Dasturchi</h3>
+# O'tkir Salimboyev
 
+Frontend Dasturchi. Frontend dasturlashni 2021-yil yozdan boshlagan.
 
+[💼Portfolio](https://frontendtester.uz) | [✈Telegram](https://t.me/Salimboyev_2001)
 
 - 🌱 Hozirda **HTML, CSS, Javascript, Sass** ni o'rganyapman
 
