@@ -1,4 +1,4 @@
-### Hi there 👋
+# O'tkir Salimboyev
 
 <!--
 **Otkirjon2001/Otkirjon2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
