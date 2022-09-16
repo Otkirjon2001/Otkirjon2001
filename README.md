@@ -2,11 +2,11 @@
 
 Frontend Dasturchi. Frontend dasturlashni 2021-yil yozdan boshlagan.
 
-[💼Portfolio](https://frontendtester.uz) | [✈Telegram](https://t.me/Salimboyev_2001)
+[💼Portfolio](https://frontendtester.uz) | [💬 Telegram](https://t.me/Salimboyev_2001) | 📧 **otkirsalimboyev@gmail.com**
 
-- 🌱 Hozirda **HTML, CSS, Javascript, Sass** ni o'rganyapman
 
-- 📫 Email: **otkirsalimboyev@gmail.com**
+
+
 
 ## Texnalogiyalar
 <p align="left">
@@ -15,9 +15,19 @@ Frontend Dasturchi. Frontend dasturlashni 2021-yil yozdan boshlagan.
 
 ## So'nggi loyihalar
 
+| Preview  | Ta'rif  |
+|---|---|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="easybank landing page" width="200"/> <br> [Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)  | **Easybank landing page** <br> <br> Onlayn banking uchun mobil ilovaning promo sahifasi <br> <br> <a href="https://github.com/Otkirjon2001/easybank-landing-page.git">🧾Repo </a> - <a href="https://so-easybank-landing-page.netlify.app/">🌐 Netlify</a> -⌚ 3 soat <br> <br> **O'ziga xos jihatlari:** Hero qismidagi rasmlar joylashuvi|
+|  <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/hwi1ergmy7tibqa5bvyf.jpg" alt="bookmark landing page" width="200"/> <br> [Maket manbasi](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158)  |  **Bookmark landing page** <br> <br> Browserlarda oson ishlashga yordam beradigan mobil ilovaning promo sahifasi <br> <br> <a href="https://github.com/Otkirjon2001/easybank-landing-page.git">🧾Repo </a> - <a href="https://so-easybank-landing-page.netlify.app/">🌐 Netlify</a> -⌚ 5 soat <br> <br> **O'ziga xos jihatlari:** Features qismidagi Tab panel |
+
+
+**<a href="https://frontendtester.uz" target="_blank">💼 Portfolio</a>**
 
 
 
+
+
+## GitHub Statistikasi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otkirjon2001&show_icons=true&locale=en&layout=compact" alt="otkirjon2001" /></p>
 
